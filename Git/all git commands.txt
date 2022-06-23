@@ -1,0 +1,10 @@
+creating project :- git init {name of project}
+check status : git status
+add edit files :- git add -A
+add commit :- git commit -m "{you masseges for commit}"
+push url add :- git remote add origin {url form github}
+push project :- git push & git push -u {url variable} {name of branch}
+chack git branch :- git branch
+chenge git branch :- git branch test
+add git branch :- git branch {name of branch}
+merge branch :- git merge {name of branch}
