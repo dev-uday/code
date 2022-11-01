@@ -5,6 +5,6 @@ add commit :- git commit -m "{you masseges for commit}"
 push url add :- git remote add origin {url form github}
 push project :- git push & git push -u {url variable} {name of branch}
 chack git branch :- git branch
-chenge git branch :- git branch test
+chenge git branch :- git checkout {name of branch}
 add git branch :- git branch {name of branch}
 merge branch :- git merge {name of branch}
