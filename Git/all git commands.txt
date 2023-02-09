@@ -8,3 +8,13 @@ chack git branch :- git branch
 chenge git branch :- git checkout {name of branch}
 add git branch :- git branch {name of branch}
 merge branch :- git merge {name of branch}
+
+
+Command 1. git checkout newbranch
+Command 2. git branch -m newbranch newbranch-backup-10-Aug-22
+Command 3. git push -u origin newbranch-backup-10-Aug-22
+Command 4. git push --delete origin newbranch
+Command 5. git checkout master
+Command 6. git pull origin master
+Command 7. git checkout -b newbranch master
+Command 8. git push -u origin newbranch
